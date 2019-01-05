@@ -3,6 +3,9 @@ More Balanced Hackmons Damage Calculator
 
 Damage Calculator for More Balanced Hackmons.
 
+Instructions
+-------------------
+Double-click index.template.html
 
 Credits and license
 -------------------
