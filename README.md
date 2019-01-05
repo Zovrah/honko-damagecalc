@@ -5,7 +5,7 @@ Damage Calculator for More Balanced Hackmons.
 
 Instructions
 -------------------
-Double-click index.template.html
+Double-click <code>index.template.html</code>
 
 Credits and license
 -------------------
